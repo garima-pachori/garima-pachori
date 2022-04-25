@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Garima Pachori<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQH6abTt2JCyGA/profile-displaybackgroundimage-shrink_350_1400/0/1643036942944?e=2147483647&v=beta&t=K9d9xg1pLRHho9J8rVQeRc615vAMe8z722vic6IfrO4">
  </p>
 
 <p align="left">  </p>
