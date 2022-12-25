@@ -5,9 +5,9 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **Web development, OpenCV in Python, DSA**
+- 🌱 I’m currently learning **App development,Web Development OpenCV in Python, DSA**
 
-- 💬 Ask me about **Web development, UX/UI designing, Graphic designing**
+- 💬 Ask me about **App development, Web development, UX/UI designing, Graphic designing**
 
 - 📫 How to reach me **garimapachori1602@gmail.com**
 
