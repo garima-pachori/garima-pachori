@@ -1,68 +1,21 @@
-<h1 align="center">Hi I'm Garima Pachori<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+[<h1 align="center">Hey there! 👋🏻<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQH6abTt2JCyGA/profile-displaybackgroundimage-shrink_350_1400/0/1643036942944?e=2147483647&v=beta&t=K9d9xg1pLRHho9J8rVQeRc615vAMe8z722vic6IfrO4">
+  <img src="https://media.licdn.com/dms/image/D4D16AQEnPL6W647Kig/profile-displaybackgroundimage-shrink_350_1400/0/1672945646450?e=1678320000&v=beta&t=yO-N_jpN9QUrbsS2qtHBhT2Gu0ZrnDr4LvtxR7CdIUY">
  </p>
 
-<p align="left">  </p>
-
-- 🌱 I’m currently learning **App development,Web Development OpenCV in Python, DSA**
-
-- 💬 Ask me about **App development, Web development, UX/UI designing, Graphic designing**
-
-- 📫 How to reach me **garimapachori1602@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19nMtMSV4C4BLjOVtheqM-bXhrl-uU01F/view?usp=sharing](https://drive.google.com/file/d/19nMtMSV4C4BLjOVtheqM-bXhrl-uU01F/view?usp=sharing)
 
 
-  ![Garima Pachori's github activity graph](https://activity-graph.herokuapp.com/graph?username=garima-pachori&theme=react-dark)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</a>
-  <a href="https://www.linkedin.com/in/garima-pachori/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Garima Pachori"
-      height="30"
-      width="40"
-  /></a>
- 
-  <a href="https://www.instagram.com/garima_pachori/" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
-      alt="Garima Pachori"
-      height="40"
-      width="40"></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garima_pachori) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-pachori) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GarimaPachori1) 
 
-  <a href="https://twitter.com/garimapachori1" target="blank">
-  <img align="center" 
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-  alt="garimapachori1" 
-  height="30" 
-  width="40" /></a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=garima-pachori&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=garima-pachori&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=garima-pachori&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <a href="https://www.codechef.com/users/garimapachori" 
-  target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
-  alt="garimapachori" 
-  height="30" 
-  width="40" /></a>
- 
-</p>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=garima-pachori&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-<h2 align="center">Github Statistics </h2>
-
-|🎯 Github Streaks and Trophies 🏆|
-|----------------------------------|
-[![Garima's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=garima-pachori&theme=midnight-purple&hide_border=true)](https://github.com/garima-pachori)
-|[![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garima-pachori&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/garima-pachori)|
-</p>
-<h1 >Visits: </h1> 
-
-![Visitor Count](https://profile-counter.glitch.me/garima-pachori/count.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
